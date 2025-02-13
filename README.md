@@ -39,12 +39,13 @@
     <td><b>Scikit-Learn</b></td>
     <td><b>Tableau</b></td>
     <td><b>Seaborn</b></td>
-    <td><b>LLM</b></td>
+    <td><b>LLM (OpenAI)</b></td>
     <td><b>Google Cloud</b></td>
   </tr>
 </table>
 
 </div>
+
 
 
 📌 Pinned Repositories
