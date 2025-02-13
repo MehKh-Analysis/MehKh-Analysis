@@ -12,7 +12,7 @@ I'm passionate about data science, machine learning, and AI-driven insights. Wit
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/> |
 |---|---|---|---|---|---|---|
-| **Pandas** | **SciPy** | **Scikit-Learn** | **Tableau** | **Matplotlib** | **Seaborn** | **Google Cloud** |
+| **Pandas** | **SciPy** | **Scikit-Learn** | **Tableau**  | **Seaborn** | **Google Cloud** |
 
 
 📌 Pinned Repositories
