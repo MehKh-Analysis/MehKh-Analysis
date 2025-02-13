@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mehran Khodabakhshi  
 
+
+
 ### 🛠 Tech Stack  
 
 <div align="center">
@@ -48,10 +50,7 @@
 
 
 
-📌 Pinned Repositories
-Here are some of my best projects:
-🔹 
-🔹 
+
 
 
  📩 Email: mkhodabakhshi1@student.gsu.edu
