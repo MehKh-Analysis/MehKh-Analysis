@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Mehran Khodabakhshi  
 
-
 ### 🛠 Tech Stack  
 
 <div align="center">
@@ -33,7 +32,7 @@
     <td><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="35"/></td>
     <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="35"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="35"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/GCP/googlecloud-original.svg" width="35"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/></td>
   </tr>
   <tr>
     <td><b>Pandas</b></td>
