@@ -1,5 +1,5 @@
 👋 Hi, I'm Mehran Khodabakhshi!
-📊 Data Scientist | ML | Deep Learning | Generative AI
+
 
 I'm passionate about data science, machine learning, and AI-driven insights. With a strong background in Petroleum Engineering and Data Analytics, I specialize in transforming complex datasets into actionable business insights. Currently, I'm pursuing an M.S. in Data Science for Business at Georgia State University, where I'm exploring deep learning, generative AI, and predictive modeling.
 
@@ -21,6 +21,11 @@ Advanced Machine Learning & NLP projects, including Text classification, and ust
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 🛠 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
 
 
 📌 Pinned Repositories
