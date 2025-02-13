@@ -12,7 +12,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="35"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/></td>
   </tr>
   <tr>
     <td><b>Python</b></td>
@@ -21,7 +21,7 @@
     <td><b>MongoDB</b></td>
     <td><b>TensorFlow</b></td>
     <td><b>Keras</b></td>
-    <td><b>NumPy</b></td>
+    <td><b>Git</b></td>
   </tr>
 </table>
 
