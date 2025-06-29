@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mehran Khodabakhshi  
 
-
-
 ### 🛠️ Tech Stack  
 
 <div align="center">
@@ -29,11 +27,13 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="90"><img src="https://learn.microsoft.com/en-us/media/logos/logo-ms-social.svg" width="30"/><br><b>Azure ML Studio</b></td>
+    <td align="center" width="90"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/IBM_logo_in_2018.svg/2560px-IBM_logo_in_2018.svg.png" width="30"/><br><b>AI Foundry</b></td>
+  </tr>
+</table>
+
 </div>
-
-
-
-
-
 
 📩 Email: mkhodabakhshi1@student.gsu.edu
