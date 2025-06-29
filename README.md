@@ -30,10 +30,10 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/><br><b>Microsoft Azure ML Studio</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="45"/><br><b>Microsoft Azure ML Studio</b>
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/><br><b>Azure AI Foundry</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="45"/><br><b>Azure AI Foundry</b>
     </td>
   </tr>
 </table>
