@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehran Khodabakhshi  
 
-🚀 Data Scientist in the insurance industry, building neat solutions to complex problems. Passionate about using machine learning, time-series forecasting, and modern NLP to deliver impactful business products.
+🚀 Data Scientist in the insurance industry, building neat solutions to complex problems. Passionate about using machine learning, time-series forecasting, and modern NLP ( LLM focused )  to deliver impactful business products.
 
 ### 🛠️ Tech Stack  
 
