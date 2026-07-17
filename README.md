@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/><br><b>TensorFlow</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure-databricks/azure-databricks-original.svg" width="30"/><br><b>Databricks</b></td>
+    <td align="center" width="95"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="30"/><br><b>Databricks</b></td>
     <td align="center" width="95"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/><br><b>Azure ML</b></td>
     <td align="center" width="95"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/><br><b>AI Foundry</b></td>
     <td align="center" width="95"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30"/><br><b>LLMs</b></td>
