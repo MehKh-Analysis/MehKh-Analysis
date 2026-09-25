@@ -1,33 +1,24 @@
-# 👋 Hi, I'm Mehran Khodabakhshi  
+# Hi, I'm Mehran Khodabakhshi
 
-🚀 Data Scientist in the insurance industry, building neat solutions to complex problems. Passionate about using machine learning, time-series forecasting, and modern NLP ( LLM focused )  to deliver impactful business products.
+Data scientist in the insurance industry. I build machine learning, time-series forecasting, and LLM-based solutions to business problems, with a focus on results that are measurable and explainable.
 
-### 🛠️ Tech Stack  
+## Featured work
 
-<div align="center">
+| Project | What it does | Highlight |
+|---|---|---|
+| [Credit risk benchmark: TabPFN vs. traditional ML](https://github.com/MehKh-Analysis/credit-risk-tabpfn-benchmark) | Reproducible benchmark of a tabular foundation model against tuned XGBoost, Random Forest, and Logistic Regression on imbalanced credit default data | TabPFN led on ROC-AUC in all 12 runs (0.972 vs. 0.953 for tuned XGBoost) with well-calibrated probabilities out of the box |
+| [ReAct agent with memory](https://github.com/MehKh-Analysis/ReAct-Agent-with-Memory) | Local LLM agent (Llama 3.2 via Ollama) with tool use, short-term thread memory, and long-term semantic user profiles | Personalized course recommendations over a 12,000+ course catalog |
+| [Grid demand forecasting: MSTL+ARIMA vs. Chronos](https://github.com/MehKh-Analysis/mstl-arima-vs-amazon-chronos-forecasting) | 48-hour-ahead hourly electricity load forecasting, benchmarking a classical decomposition pipeline against a zero-shot transformer foundation model | Chronos cut MAPE from 5.95% to 2.75% on the holdout period |
+| [Alzheimer's prediction](https://github.com/MehKh-Analysis/Alzheimer_Prediction-ML) | Compares five classifier families with stratified cross-validation on clinical and lifestyle data | SHAP interpretation of the drivers behind each prediction |
 
-<table>
-  <tr>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/><br><b>Python</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="30"/><br><b>R</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30"/><br><b>SQL</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/><br><b>MongoDB</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30"/><br><b>Pandas</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="30"/><br><b>Scikit-Learn</b></td>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/><br><b>Git</b></td>
-  </tr>
-</table>
+## Tech stack
 
-<table>
-  <tr>
-    <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/><br><b>TensorFlow</b></td>
-    <td align="center" width="95"><img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="30"/><br><b>Databricks</b></td>
-    <td align="center" width="95"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/><br><b>Azure ML</b></td>
-    <td align="center" width="95"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="30"/><br><b>AI Foundry</b></td>
-    <td align="center" width="95"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="30"/><br><b>LLMs</b></td>
-    <td align="center" width="95"><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="30"/><br><b>Tableau</b></td>
-    <td align="center" width="95"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/><br><b>Seaborn</b></td>
-  </tr>
-</table>
+**Languages:** Python, R, SQL
+**ML & statistics:** scikit-learn, XGBoost, statsmodels, TensorFlow, SHAP
+**LLMs & GenAI:** LangChain, Ollama, RAG, agents, fine-tuning
+**Data & cloud:** Pandas, Databricks, Azure AI Foundry, MongoDB
+**Visualization:** Tableau, Matplotlib, Seaborn
 
-</div>
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mehran-khodabakhshi1/)
