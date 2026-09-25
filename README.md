@@ -1,12 +1,10 @@
-# Hi, I'm Mehran Khodabakhshi 👋
+
 
 <a href="https://github.com/MehKh-Analysis"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=Data+Scientist+at+Chubb+Insurance;Machine+Learning+%26+Time+Series;LLMs+%26+AI+Agents" alt="Typing SVG" /></a>
 
 ### Data scientist at Chubb Insurance.
 
 ### 🎓 Master of Data Science | Robinson College of Business, Georgia State University
-
-
 
 
 
