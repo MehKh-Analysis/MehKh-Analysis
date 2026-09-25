@@ -8,7 +8,7 @@
 
 
 
-                     I build ML, time-series forecasting, and LLM-based solutions to business problems, with a focus on results                                                                 that are measurable and explainable
+I build ML, time-series forecasting, and LLM-based solutions to business problems, with a focus on results                                                                 that are measurable and explainable
 
 
 ## 🛠️ Tech stack
